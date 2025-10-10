@@ -47,7 +47,7 @@ function Hero() {
               />
             </a>
             <a
-              href="www.linkedin.com/in/mohammad-faez-saad-eldeen"
+              href="https://www.linkedin.com/in/mohammad-faez-sad-eldeen-836092347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
               target="_blank"
             >
               <img
