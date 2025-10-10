@@ -36,7 +36,7 @@ function Navbar() {
     <header
       className={`fixed top-3 left-3 right-3 z-20 transition-all duration-300 ${
         isScrolled
-          ? "bg-[#2430a4]/70 backdrop-blur-md  shadow-md  rounded-3vxl "
+          ? "bg-[#2430a4]/70 backdrop-blur-md  shadow-md  rounded-3xl "
           : "bg-transparent"
       }`}
       data-aos="fade-up"
