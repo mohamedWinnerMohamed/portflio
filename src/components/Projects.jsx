@@ -21,20 +21,6 @@ function Projects() {
       des: "Online clothing Stor",
       link: "https://e-commerc-2.netlify.app/",
     },
-    {
-      id: 3,
-      image: solarPanelInstallers,
-      title: "solar Panel Installers",
-      des: "Fueled is an award-winning technology consultancy that transforms businesses by generating ideas, building products, and accelerating growth",
-      link: "https://solar-panel-installers.netlify.app/",
-    },
-    {
-      id: 4,
-      image: ageCalculator,
-      title: "Age Calculator",
-      des: "Calculates your age in seconds with great accuracy",
-      link: "https://pro-age-calculator.netlify.app/",
-    },
   ];
   return (
     <main className="pt-40 px-18" id="projects">
