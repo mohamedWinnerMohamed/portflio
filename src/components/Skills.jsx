@@ -8,6 +8,7 @@ import typescript from "/typescript.png";
 import mongoDB from "/mongo-db.png";
 import nodejs from "/nodejs.png";
 import git from "/git.png";
+import nextjs from "/nextjs.png";
 import dots from "/dots.svg";
 
 const skillsData = [
@@ -74,6 +75,13 @@ const skillsData = [
   },
   {
     id: 10,
+    image: nextjs,
+    title: "Next js",
+    description:
+      "Next.js is a React framework that makes it easy to build fast, modern web applications using static and server-side rendering",
+  },
+  {
+    id: 11,
     image: dots,
     title: "And More",
   },
