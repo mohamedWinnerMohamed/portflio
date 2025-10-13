@@ -78,7 +78,7 @@ function Contact() {
                 className="w-full px-4 py-2 text-white bg-gray-900 rounded-lg focus:outline-none"
               ></textarea>
             </div>
-            <button className="w-full text-white border-2 py-2 px-6 focus:outline-none hover:bg-[#801b9c] hover:shadow-[0-0_40px_rgba(128,0,128,0.7)] rounded-full text-lg">
+            <button className="w-full text-white border-2 py-2 px-6 focus:outline-none hover:bg-[#2430a4]  rounded-full text-lg">
               Send Message
             </button>
           </form>
