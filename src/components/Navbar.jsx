@@ -67,9 +67,12 @@ function Navbar() {
               {link.name}
             </a>
           ))}
-          <button className="inline-flex text-white border-2 py-2 px-6 focus:outline-none hover:bg-[#2430a4] rounded-full text-lg">
-            <a href="#contact">Contact</a>
-          </button>
+          <a
+            href="#contact"
+            className="inline-flex text-white border-2 py-2 px-6 focus:outline-none hover:bg-[#2430a4] rounded-full text-lg"
+          >
+            Contact
+          </a>
         </nav>
       </div>
 
@@ -97,11 +100,12 @@ function Navbar() {
           </a>
         ))}
 
-        <button className="inline-flex text-white py-2 px-6 border-2 focus:outline-none hover:bg-[#1d1b9c] rounded-full text-lg">
-          <a href="#contact" onClick={() => setIsOpen(false)}>
-            Contact
-          </a>
-        </button>
+        <a
+          href="#contact"
+          className="inline-flex text-white border-2 py-2 px-6 focus:outline-none hover:bg-[#2430a4] rounded-full text-lg"
+        >
+          Contact
+        </a>
       </div>
     </header>
   );

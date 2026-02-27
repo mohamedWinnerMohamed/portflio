@@ -9,7 +9,7 @@ function Footer() {
         </h1> */}
         <p className="text-sm text-center">
           {" "}
-          © 2025 All right reserved
+          © 2026 All right reserved
           <br />
           Made With Love By Mohamed Faez
         </p>
